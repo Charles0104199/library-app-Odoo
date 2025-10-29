@@ -1,7 +1,7 @@
 {
     'name': 'Library Management',
     'version': '1.0',
-    'summary': 'written by the author paulo coelo',
+    'summary': 'book of deep learning',
     'sequence': -100,
     'depends': ['base'],
     'data': [
