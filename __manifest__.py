@@ -1,7 +1,7 @@
 {
     'name': 'Library Management',
     'version': '1.0',
-    'summary': 'Manage books and authors in a library',
+    'summary': 'written by the author paulo coelo',
     'sequence': -100,
     'depends': ['base'],
     'data': [
